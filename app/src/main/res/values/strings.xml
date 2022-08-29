@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LoginActivityFireBase</string>
+    <string name="email">email</string>
+    <string name="passwords">password</string>
+    <string name="login">login</string>
+    <string name="create_new_account">create new account?</string>
+    <string name="already_have_an_account_login">already</string>
+    <string name="register">register\'</string>
+    <string name="phone_number">phone_number</string>
+    <string name="confirm_password">password</string>
+    <string name="fullname">fullname</string>
+    <string name="button">Button</string>
+    <string name="logouut">Logout</string>
+    <string name="already_have_an_acc_login">Already have an account?Login</string>
+    <string name="forgot_password">Forgot PassWord?</string>
+</resources>
