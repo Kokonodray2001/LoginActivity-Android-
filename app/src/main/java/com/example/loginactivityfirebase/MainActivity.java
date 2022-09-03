@@ -23,9 +23,10 @@ public class MainActivity extends AppCompatActivity {
         mLogout.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                FirebaseAuth.getInstance().signOut();
-                startActivity(new Intent(getApplicationContext(),Login.class));
-                finish();
+                startActivity(new Intent(getApplicationContext(),MainActivity2.class));
+//                FirebaseAuth.getInstance().signOut();
+//                startActivity(new Intent(getApplicationContext(),Login.class));
+//                finish();
             }
         });
     }

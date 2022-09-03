@@ -13,4 +13,9 @@
     <string name="logouut">Logout</string>
     <string name="already_have_an_acc_login">Already have an account?Login</string>
     <string name="forgot_password">Forgot PassWord?</string>
+    <string name="name">Name</string>
+    <string name="sex">Sex</string>
+    <string name="age">Age</string>
+    <string name="contact">Contact</string>
+    <string name="add_image">Add Image</string>
 </resources>
