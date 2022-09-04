@@ -18,4 +18,5 @@
     <string name="age">Age</string>
     <string name="contact">Contact</string>
     <string name="add_image">Add Image</string>
+    <string name="details">Details</string>
 </resources>
