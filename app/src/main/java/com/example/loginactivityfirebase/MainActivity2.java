@@ -68,6 +68,14 @@ public class MainActivity2 extends AppCompatActivity {
         setContentView(R.layout.activity_main2);
         requestContactsPermission();
 
+        //-------------------
+        Button nbtn =  findViewById(R.id.newbtn);
+        nbtn.setOnClickListener(view -> {
+            Intent nI =  new Intent(getApplicationContext(),Accident.class);
+            startActivity(nI);
+        });
+        //-----------
+
         Button addImage_btn = findViewById(R.id.btn_addImage);
         Button saveDetails_btn = findViewById(R.id.btn_saveDetails);
 
