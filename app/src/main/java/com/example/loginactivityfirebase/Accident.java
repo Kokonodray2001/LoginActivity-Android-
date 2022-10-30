@@ -88,7 +88,8 @@ public class Accident extends AppCompatActivity {
         String month =  String.valueOf(date.getMonth());
         String day =  String.valueOf(date.getDate());
         String uid =  firebaseAuth.getUid().toString();
-        int hr =   date.getHours();
+        int hr =   date.
+                getHours();
         int min =  date.getMinutes();
 
 
